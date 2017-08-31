@@ -3,7 +3,11 @@
   <PropertyGroup>
     <UseIISExpress>true</UseIISExpress>
     <WebStackScaffolding_ControllerDialogWidth>600</WebStackScaffolding_ControllerDialogWidth>
+<<<<<<< .merge_file_a14208
     <ProjectView>ShowAllFiles</ProjectView>
+=======
+    <ProjectView>ProjectFiles</ProjectView>
+>>>>>>> .merge_file_a13580
     <WebStackScaffolding_DbContextDialogWidth>600</WebStackScaffolding_DbContextDialogWidth>
     <WebStackScaffolding_IsLayoutPageSelected>True</WebStackScaffolding_IsLayoutPageSelected>
     <WebStackScaffolding_IsPartialViewSelected>True</WebStackScaffolding_IsPartialViewSelected>
