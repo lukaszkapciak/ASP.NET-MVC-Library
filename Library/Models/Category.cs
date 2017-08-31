@@ -5,6 +5,7 @@ namespace Library.Models
 {
     public class Category
     {
+        [Required]
         public int CategoryId { get; set; }
         [Required]
         public string Name { get; set; }
